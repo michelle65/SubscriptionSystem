@@ -1,0 +1,6 @@
+C:\Users\mihaela\source\repos\SubscriptionSystemBackend\SubscriptionSystemBackend\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mihaela\source\repos\SubscriptionSystemBackend\SubscriptionSystemBackend\obj\Debug\net8.0\SubscriptionSystemBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihaela\source\repos\SubscriptionSystemBackend\SubscriptionSystemBackend\obj\Debug\net8.0\SubscriptionSystemBackend.AssemblyInfoInputs.cache
+C:\Users\mihaela\source\repos\SubscriptionSystemBackend\SubscriptionSystemBackend\obj\Debug\net8.0\SubscriptionSystemBackend.AssemblyInfo.cs
+C:\Users\mihaela\source\repos\SubscriptionSystemBackend\SubscriptionSystemBackend\obj\Debug\net8.0\SubscriptionSystemBackend.csproj.CoreCompileInputs.cache
+C:\Users\mihaela\source\repos\SubscriptionSystemBackend\SubscriptionSystemBackend\obj\Debug\net8.0\SubscriptionSystemBackend.MvcApplicationPartsAssemblyInfo.cache

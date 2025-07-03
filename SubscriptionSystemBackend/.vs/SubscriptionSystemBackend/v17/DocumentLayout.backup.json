@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\controllers\\invitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\controllers\\invitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\models\\invitedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\models\\invitedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\repositories\\userrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\repositories\\userrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\iservices\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\models\\confirminvitedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\models\\confirminvitedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\models\\registeradmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\models\\registeradmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|c:\\users\\mihaela\\source\\repos\\subscriptionsystembackend\\subscriptionsystembackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{867D1553-7137-4B25-A1A8-71258F644BA1}|SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj|solutionrelative:subscriptionsystembackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T21:41:57.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:22:47.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InviteController.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Controllers\\InviteController.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Controllers\\InviteController.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Controllers\\InviteController.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Controllers\\InviteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:39:09.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InviteDto.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Models\\InviteDto.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Models\\InviteDto.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Models\\InviteDto.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Models\\InviteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:25:35.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Repositories\\UserRepositories.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Repositories\\UserRepositories.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Repositories\\UserRepositories.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Repositories\\UserRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:57:57.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T19:57:51.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Services\\EmailService.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:55:48.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Services\\AuthService.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:55:12.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\IServices\\IUserService.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:05:44.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\IServices\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:10:40.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Services\\UserService.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Services\\UserService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA0wFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:38:33.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\IServices\\IEmailService.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\IServices\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\IServices\\IEmailService.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\IServices\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T20:15:13.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConfirmInviteDto.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Models\\ConfirmInviteDto.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Models\\ConfirmInviteDto.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Models\\ConfirmInviteDto.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Models\\ConfirmInviteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:26:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Models\\LoginDto.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:24:29.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Models\\RegisterAdminDto.cs",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\Models\\RegisterAdminDto.cs",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\Models\\RegisterAdminDto.cs",
+              "RelativeToolTip": "SubscriptionSystemBackend\\Models\\RegisterAdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:22:01.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SubscriptionSystemBackend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\appsettings.Development.json",
+              "RelativeToolTip": "SubscriptionSystemBackend\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T19:16:28.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
