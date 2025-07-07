@@ -63,7 +63,7 @@ dotnet ef database update
 dotnet ef migrations remove
 ```
 
-**Reset database (drop and recreate):**
+**Recreate database :**
 ```bash
 dotnet ef database update
 ```
