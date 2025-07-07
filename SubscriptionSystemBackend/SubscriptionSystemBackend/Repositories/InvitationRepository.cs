@@ -1,39 +1,52 @@
-﻿using SubscriptionSystemBackend.IRepositories;
+﻿using Microsoft.EntityFrameworkCore;
+using SubscriptionSystemBackend.IRepositories;
 using SubscriptionSystemBackend.Models;
+using SubscriptionSystemBackend.Data;
 
 namespace SubscriptionSystemBackend.Repositories
 {
     public class InvitationRepository : IInvitationRepository
     {
-        private readonly List<Invitation> _invitations = new();
+        private readonly ApplicationDbContext _context;
 
-        public Task AddAsync(Invitation invitation)
+        public InvitationRepository(ApplicationDbContext context)
         {
-            _invitations.Add(invitation);
-            return Task.CompletedTask;
+            _context = context;
         }
 
-        public Task<Invitation?> GetByTokenAsync(string token)
+        public async Task AddAsync(Invitation invitation)
         {
-            return Task.FromResult(_invitations.FirstOrDefault(i => i.InvitationToken == token));
+            await _context.Invitations.AddAsync(invitation);
         }
 
-        public Task<IEnumerable<Invitation>> GetAllAsync()
+        public async Task<Invitation?> GetByTokenAsync(string token)
         {
-            return Task.FromResult<IEnumerable<Invitation>>(_invitations);
+            return await _context.Invitations.FirstOrDefaultAsync(i => i.InvitationToken == token);
         }
 
-        public Task SaveChangesAsync() => Task.CompletedTask;
-
-        public Task AddAsync(IInvitationRepository invitation)
+        public async Task<IEnumerable<Invitation>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await _context.Invitations.ToListAsync();
         }
 
-        Task<IEnumerable<IInvitationRepository>> IInvitationRepository.GetAllAsync()
+        public async Task<IEnumerable<Invitation>> GetByEmailAsync(string email)
         {
-            throw new NotImplementedException();
+            return await _context.Invitations
+                .Where(i => i.Email == email)
+                .OrderByDescending(i => i.CreatedAt)
+                .ToListAsync();
+        }
+
+        public async Task SaveChangesAsync()
+        {
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task UpdateAsync(Invitation invitation)
+        {
+            invitation.UsedAt = DateTime.UtcNow;
+            _context.Invitations.Update(invitation);
+            await _context.SaveChangesAsync();
         }
     }
-
 }

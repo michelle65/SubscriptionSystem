@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj": {}
+    "C:\\Users\\Alexis\\SubscriptionSystem\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj": {
+    "C:\\Users\\Alexis\\SubscriptionSystem\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Alexis\\SubscriptionSystem\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj",
         "projectName": "SubscriptionSystemBackend",
-        "projectPath": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj",
-        "packagesPath": "C:\\Users\\mihaela\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mihaela\\source\\repos\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\obj\\",
+        "projectPath": "C:\\Users\\Alexis\\SubscriptionSystem\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\SubscriptionSystemBackend.csproj",
+        "packagesPath": "C:\\Users\\Mihaela\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alexis\\SubscriptionSystem\\SubscriptionSystemBackend\\SubscriptionSystemBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mihaela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mihaela\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,11 +45,35 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

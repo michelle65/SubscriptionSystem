@@ -7,5 +7,6 @@
         Task AddAsync(User user);
         Task<IEnumerable<User>> GetAllUsersAsync();
         Task SaveChangesAsync();
+        Task UpdateAsync(User user);
     }
 }

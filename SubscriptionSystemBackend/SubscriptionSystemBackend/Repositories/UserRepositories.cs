@@ -1,31 +1,47 @@
-﻿namespace SubscriptionSystemBackend.Repositories
+﻿using Microsoft.EntityFrameworkCore;
+using SubscriptionSystemBackend.Data;
+
+namespace SubscriptionSystemBackend.Repositories
 {
-    public class UserRepository : IUserRepository
+    public class UserRepositories : IUserRepository
     {
-        private readonly List<User> _users = new();
+        private readonly ApplicationDbContext _context;
 
-        public Task AddAsync(User user)
+        public UserRepositories(ApplicationDbContext context)
         {
-            _users.Add(user);
-            return Task.CompletedTask;
+            _context = context;
         }
 
-        public Task<User?> GetByEmailAsync(string email)
+        public async Task AddAsync(User user)
         {
-            return Task.FromResult(_users.FirstOrDefault(u => u.Email == email));
+            await _context.Users.AddAsync(user);
         }
 
-        public Task<User?> GetByIdAsync(int id)
+        public async Task<User?> GetByEmailAsync(string email)
         {
-            return Task.FromResult(_users.FirstOrDefault(u => u.Id == id));
+            return await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
         }
 
-        public Task<IEnumerable<User>> GetAllUsersAsync()
+        public async Task<User?> GetByIdAsync(int id)
         {
-            return Task.FromResult<IEnumerable<User>>(_users);
+            return await _context.Users.FirstOrDefaultAsync(u => u.Id == id);
         }
 
-        public Task SaveChangesAsync() => Task.CompletedTask;
+        public async Task<IEnumerable<User>> GetAllUsersAsync()
+        {
+            return await _context.Users.ToListAsync();
+        }
+
+        public async Task SaveChangesAsync()
+        {
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task UpdateAsync(User user)
+        {
+            user.UpdatedAt = DateTime.UtcNow;
+            _context.Users.Update(user);
+            await _context.SaveChangesAsync();
     }
-
+    }
 }

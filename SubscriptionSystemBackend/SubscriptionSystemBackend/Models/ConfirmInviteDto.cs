@@ -2,10 +2,14 @@
 {
     public class ConfirmInviteDto
     {
-        public string Token { get; set; }
-        public object Password { get; internal set; }
-        public object ConfirmPassword { get; internal set; }
-        public string FirstName { get; internal set; }
-        public string LastName { get; internal set; }
+        public string Token { get; set; } = string.Empty;
+        
+        public string Password { get; set; } = string.Empty;
+        
+        public string ConfirmPassword { get; set; } = string.Empty;
+        
+        public string FirstName { get; set; } = string.Empty;
+        
+        public string LastName { get; set; } = string.Empty;
     }
 }

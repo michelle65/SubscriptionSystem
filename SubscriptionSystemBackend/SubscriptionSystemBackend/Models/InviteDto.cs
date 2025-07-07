@@ -2,6 +2,6 @@
 {
     public class InviteDto
     {
-        public string[] Emails { get; set; }
+        public string[] Emails { get; set; } = Array.Empty<string>();
     }
 }
